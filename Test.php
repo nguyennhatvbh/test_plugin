@@ -1,1 +1,1 @@
-<?php echo "this is addition"; ?>
+<?php echo "this is addition testing for beta"; ?>
